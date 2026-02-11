@@ -1,6 +1,6 @@
 {
   "name": "hotware-dashboard",
-  "version": "1.0.01",
+  "version": "1.0.1",
   "description": "Hotware Dashboard",
   "author": "Hotware",
   "main": "electron/main.js",
